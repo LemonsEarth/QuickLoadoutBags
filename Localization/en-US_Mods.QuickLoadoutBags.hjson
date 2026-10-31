@@ -1,0 +1,146 @@
+Items: {
+	EquipmentBag1: {
+		DisplayName: Equipment Bag 1
+		Tooltip: Early Pre-Hardmode items
+	}
+
+	EquipmentBag2: {
+		DisplayName: Equipment Bag 2
+		Tooltip: Late Pre-Hardmode items
+	}
+
+	EquipmentBag3: {
+		DisplayName: Equipment Bag 3
+		Tooltip: Early Hardmode items
+	}
+
+	StatBag: {
+		DisplayName: Stat Bag
+		Tooltip: Life Crystals, Mana Crystals and Life Fruit
+	}
+
+	EquipmentBag4: {
+		DisplayName: Equipment Bag 4
+		Tooltip: Late Hardmode items
+	}
+
+	EquipmentBag5: {
+		DisplayName: Equipment Bag 5
+		Tooltip: Endgame items
+	}
+
+	MagicBag1: {
+		DisplayName: Magic Bag 1
+		Tooltip: Early Pre-Hardmode items
+	}
+
+	MagicBag2: {
+		DisplayName: Magic Bag 2
+		Tooltip: Late Pre-Hardmode items
+	}
+
+	MagicBag3: {
+		DisplayName: Magic Bag 3
+		Tooltip: Early Hardmode items
+	}
+
+	MagicBag4: {
+		DisplayName: Magic Bag 4
+		Tooltip: Late Hardmode items
+	}
+
+	MagicBag5: {
+		DisplayName: Magic Bag 5
+		Tooltip: Endgame Items
+	}
+
+	MeleeBag1: {
+		DisplayName: Melee Bag 1
+		Tooltip: Early Pre-Hardmode items
+	}
+
+	MeleeBag2: {
+		DisplayName: Melee Bag 2
+		Tooltip: Late Pre-Hardmode items
+	}
+
+	MeleeBag3: {
+		DisplayName: Melee Bag 3
+		Tooltip: Early Hardmode items
+	}
+
+	MeleeBag4: {
+		DisplayName: Melee Bag 4
+		Tooltip: Late Hardmode items
+	}
+
+	MeleeBag5: {
+		DisplayName: Melee Bag 5
+		Tooltip: Endgame items
+	}
+
+	PotionBag: {
+		DisplayName: Potion Bag
+		Tooltip: Potions
+	}
+
+	RangerBag1: {
+		DisplayName: Ranger Bag 1
+		Tooltip: Early Pre-Hardmode items
+	}
+
+	RangerBag2: {
+		DisplayName: Ranger Bag 2
+		Tooltip: Late Pre-Hardmode items
+	}
+
+	RangerBag3: {
+		DisplayName: Ranger Bag 3
+		Tooltip: Early Hardmode items
+	}
+
+	RangerBag4: {
+		DisplayName: Ranger Bag 4
+		Tooltip: Late Hardmode items
+	}
+
+	RangerBag5: {
+		DisplayName: Ranger Bag 5
+		Tooltip: Endgame items
+	}
+
+	ResourceBag: {
+		DisplayName: Resource Bag
+		Tooltip: Ammo, Health and Mana Potions
+	}
+
+	SummonBag1: {
+		DisplayName: Summon Bag 1
+		Tooltip: Early Pre-Hardmode items
+	}
+
+	SummonBag2: {
+		DisplayName: Summon Bag 2
+		Tooltip: Late Pre-Hardmode items
+	}
+
+	SummonBag3: {
+		DisplayName: Summon Bag 3
+		Tooltip: Early Hardmode items
+	}
+
+	SummonBag4: {
+		DisplayName: Summon Bag 4
+		Tooltip: Late Hardmode items
+	}
+
+	SummonBag5: {
+		DisplayName: Summon Bag 5
+		Tooltip: Endgame items
+	}
+
+	TheReforger: {
+		DisplayName: The Reforger
+		Tooltip: Instantly reforges every item in your inventory and equipment slots to their best reforge
+	}
+}
