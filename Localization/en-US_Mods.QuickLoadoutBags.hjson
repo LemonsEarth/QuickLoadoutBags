@@ -143,4 +143,9 @@ Items: {
 		DisplayName: The Reforger
 		Tooltip: Instantly reforges every item in your inventory and equipment slots to their best reforge
 	}
+
+	PlayerVoodooDoll: {
+		DisplayName: Player Voodoo Doll
+		Tooltip: Deals 20 damage to you if you have more than 20 health
+	}
 }

@@ -1,4 +1,4 @@
-﻿using Terraria.DataStructures;
+﻿using Microsoft.Xna.Framework;
 
 namespace QuickLoadoutBags.Content.Items.Tools;
 
@@ -30,7 +30,11 @@ public class PlayerVoodooDoll : ModItem
     {
         if (player.whoAmI == Main.myPlayer)
         {
-            player.Hurt(PlayerDeathReason.ByPlayerItem(player.whoAmI, Item), 20, 1, dodgeable: false);
+            if (player.statLife > 20)
+            {
+                player.statLife -= 20;
+                CombatText.NewText(player.getRect(), Color.Red, 20);
+            }
         }
         return true;
     }

@@ -1,3 +1,3 @@
 displayName = Lemon's Testing Mod
 author = LemonEarth
-version = 0.3
+version = 0.4
